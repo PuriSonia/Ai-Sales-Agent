@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-openai
-psycopg2-binary
-pyjwt
-requests
-beautifulsoup4
